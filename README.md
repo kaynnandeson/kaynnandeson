@@ -11,7 +11,7 @@
 
 > "Transformando ideias em interfaces incríveis!"
 
-![Kn Dev](https://github-readme-stats.vercel.app/api?username=KaynnandesonPaiva&show_icons=true&theme=radical)
+![Kn Dev](https://github-readme-stats.vercel.app/api?username=kaynnandeson&show_icons=true&theme=radical)
 
 ### Tecnologias que utilizo 🧑‍💻🤖:
 <div style="display: inline_block"><br>
